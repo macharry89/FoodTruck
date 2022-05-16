@@ -11,5 +11,3 @@ RUN yarn install
 
 # Build and run the app
 CMD yarn start
-
-EXPOSE 3000
