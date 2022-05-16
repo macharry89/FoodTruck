@@ -10,4 +10,4 @@ COPY . /usr/src/app
 RUN yarn install
 
 # Build and run the app
-CMD yarn build
+CMD yarn start
