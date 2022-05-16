@@ -4,6 +4,7 @@
 This app consists of three services, and each service is dockerized.
 
 1. API
+
   Which one is fetching the food truck data from [here](https://data.sfgov.org/api/views/rqzj-sfat/rows.csv) and serve.
   
   Technologies: 
@@ -12,6 +13,7 @@ This app consists of three services, and each service is dockerized.
   - Typescript
 
 2. UI
+
   Which one is showing the food truck data user-frendly.
   
   Technologies: 
