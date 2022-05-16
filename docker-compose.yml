@@ -20,7 +20,6 @@ services:
      - "4040:4040"
 
   client:
-    stdin_open: true
     build:
       context: ./frontend
     volumes:
