@@ -1,5 +1,6 @@
 # FoodTruck List in San Francisco
 
+![Screenshot](/Screenshot.jpg)
 ## Structure
 This app consists of three services, and each service is dockerized.
 
