@@ -26,7 +26,9 @@ Before deployment on your server, make sure the docker-compose is running on you
 
 ```
 git clone https://github.com/macharry89/FoodTruck.git
+
 cd FoodTruck
+
 docker-compose up -d --build
 ```
 
